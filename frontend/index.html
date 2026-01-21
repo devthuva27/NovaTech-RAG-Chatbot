@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaTech Policy Chatbot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>NovaTech Policy Chatbot</h1>
+    </header>
+
+    <main id="chat-container">
+        <!-- Messages will appear here -->
+        <div class="message bot-message">
+            <div class="bubble">
+                Hello! I am the NovaTech Policy Assistant. Ask me anything about our company policies (leave, remote
+                work, benefits, etc.).
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="controls-row">
+            <div class="control-group">
+                <label for="role-select">Role:</label>
+                <select id="role-select">
+                    <option value="Employee">Employee</option>
+                    <option value="Manager">Manager</option>
+                    <option value="HR">HR</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="lang-select">Language:</label>
+                <select id="lang-select">
+                    <option value="English">English</option>
+                    <option value="Spanish">Spanish</option>
+                    <option value="French">French</option>
+                </select>
+            </div>
+
+            <div class="control-group checkbox-group">
+                <input type="checkbox" id="show-sources" checked>
+                <label for="show-sources">Show Sources</label>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="user-input" placeholder="Ask about NovaTech policies..." autocomplete="off">
+            <button id="send-btn">Send</button>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
