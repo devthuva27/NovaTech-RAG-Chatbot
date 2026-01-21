@@ -1,0 +1,16 @@
+NovaTech Inc. Remote Work Policy
+
+1. Eligibility
+Remote work is available to employees whose roles can be effectively performed off-site. Assessment is done by the immediate manager.
+
+2. Hybrid Model
+NovaTech operates on a hybrid model. Employees are expected to be in the office at least 2 days a week (specifically Tuesdays and Thursdays for team collaboration).
+
+3. Working Hours
+Remote employees must adhere to standard working hours (9:00 AM - 6:00 PM) and be available for communication via Slack and Email during this time.
+
+4. Home Office Setup
+Employees are responsible for creating a secure and distraction-free work environment. NovaTech provides a one-time stipend of $500 for home office equipment.
+
+5. Data Security
+Employees must use company-issued devices for work. Use of unsecured public Wi-Fi is strictly prohibited. VPN connection is mandatory when accessing company systems.
