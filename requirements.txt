@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+groq
+pydantic
+python-dotenv
+pydantic-settings
+numpy
